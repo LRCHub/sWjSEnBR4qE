@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Start as Usual",
+  "base_artist": "Afterglow",
+  "createdAt": "2025-12-10T05:13:21.747988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Start as Usual",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/01_Start_as_Usual_Afterglow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Start as Usual",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/pl_01_Start_as_Usual_Afterglow.txt"
+    }
+  ]
+}
